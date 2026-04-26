@@ -32,7 +32,6 @@ private TextView text;
             return insets;
         });
 //hi
-        // hhhhhhhhadasdhahdsahdsahddkjasdbfhjkds
         i=findViewById(R.id.spnpl);
 edtname =findViewById(R.id.edtname);
 btnshow=findViewById(R.id.ntmshow);
