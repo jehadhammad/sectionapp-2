@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">first_project</string>
+    <string name="show">show</string>
+    <string name="enter_name">enter name</string>
+    <string-array name="pl">
+        <item>java</item>
+        <item>jehad </item>
+
+        <item>mahmod </item>
+
+        <item>java</item>
+
+
+
+
+
+    </string-array>
+</resources>
